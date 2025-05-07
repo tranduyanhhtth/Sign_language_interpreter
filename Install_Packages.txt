@@ -1,0 +1,10 @@
+h5py
+numpy
+scikit-learn
+keras
+tensorflow==2.17.0
+opencv-python
+pyttsx3
+imgaug
+mediapipe
+libespeak1
